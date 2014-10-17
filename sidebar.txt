@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dol:home|Door43 (dol)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dol|d43-dol repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dol/archive/master.zip|d43-dol.zip]]
+
+**Recent Changes**
+{{changes>ns = dol}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dol|Ethnologue data]]
+
